@@ -1,6 +1,8 @@
 # robu
 Fitting Robust Variance Meta-Regression Models Use robu (robumeta) With (In) R Software
 
+https://www.youtube.com/watch?v=RBZ6WKWsZvU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
